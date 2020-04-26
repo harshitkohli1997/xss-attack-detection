@@ -1,7 +1,7 @@
 {
   "name": "xss-attack-detection",
   "version": "1.0.0",
-  "description": "This package helps to sanitize the input text that is malicious and intended to attack the server.",
+  "description": "This package helps to filter the input text that is malicious and intended to attack the server.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
