@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "hk",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bayes-classifier": "0.0.5"
+  }
 }
