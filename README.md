@@ -2,7 +2,7 @@
 
 ## Description
 
-This package helps to filter the input text that is malicious and intended to attack the server.it contains model that is trained on data set of around 6k xss-attack scripts to classify the input into 2 pre defined labels i.e malicious and benign and this package has the ability to deal with different types of input like JSON Objects, string array, singular string,Object Array that could be helpful to filter malicious data present in database.
+This package helps to filter the input text that is malicious and intended to attack the server.It contains model that is trained on a dataset of around 6k XSS-attack scripts to classify the input into 2 pre-defined labels i.e malicious and benign and this package has the ability to deal with different types of input like JSON Objects, string array, singular string, Object Array that could be helpful to filter malicious data present in database.
 
 ## Install
 
@@ -90,13 +90,43 @@ var testingDocs = [
     <td>1</td>
     <td>primary key</td>
     <td>String</td>
-    <td>this will help in adding new key to result which can uniquely identify the document in array.it can be passed as second argument in classifyBatch function</td>
+    <td>this will help in adding new key to result which can uniquely identify the document in array.It can be passed as second argument in classifyBatch function</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Fields to Check</td>
     <td>Array</td>
     <td>this will help is saving time by avoiding brute force checking to only specific fields checking. it can be passed as third argument in classifyBatch function </td>
+  </tr>
+</table>
+
+## Contact Details
+
+<table>
+  <tr>
+    <th>S.no </th>
+    <th>Name</th>
+    <th>Contact Info</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Harshit Kohli</td>
+    <td>harshit.kohli1997@gmail.com</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Sagar Bilwal</td>
+    <td>bilwal.sagar@gmail.com</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Abhinav Jain</td>
+    <td>jabhi678@gmail.com</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Pranay Anand</td>
+    <td>pranayanand123@yahoo.in</td>
   </tr>
 </table>
 
