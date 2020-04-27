@@ -13,7 +13,7 @@ npm install --save xss-attack-detection
 ## Usage
 
 ```
-const attackDetection = require('../index');
+const attackDetection = require('xss-attack-detection');
 const xss_detect = new attackDetection.xssAttackDetection();
 ```
 
@@ -100,7 +100,7 @@ var testingDocs = [
   </tr>
 </table>
 
-## Contact Details
+## Contributors Details
 
 <table>
   <tr>
