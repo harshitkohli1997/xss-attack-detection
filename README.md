@@ -17,7 +17,7 @@ const attackDetection = require('xss-attack-detection');
 const xss_detect = new attackDetection.xssAttackDetection();
 ```
 
-## 1. when input is simple string
+## 1. When input is simple string
 
 ```
 
