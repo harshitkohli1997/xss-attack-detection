@@ -16,7 +16,7 @@ module.exports = {
             this.benignCount = 0;
         }
 
-        detect = (str) => {
+        detect(str) {
             if (Array.isArray(str)) {
                 return new Error('Expected a string but got an array')
             }
@@ -35,7 +35,7 @@ module.exports = {
             return this.singleResult;
         }
 
-        classifyBatch = (inputArr, primaryKey, fieldsToCheck) => {
+        classifyBatch (inputArr, primaryKey, fieldsToCheck) {
             let keys = [];
 
             if (!Array.isArray(inputArr)) {

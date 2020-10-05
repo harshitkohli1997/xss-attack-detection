@@ -1,6 +1,6 @@
 {
   "name": "xss-attack-detection",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This package helps to filter the input text that is malicious and intended to attack the server.",
   "main": "index.js",
   "scripts": {
