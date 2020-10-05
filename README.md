@@ -126,7 +126,7 @@ var testingDocs = [
   <tr>
     <td>4</td>
     <td>Pranay Anand</td>
-    <td>pranayanand123@yahoo.in</td>
+    <td>pranayanand123@gmail.com</td>
   </tr>
 </table>
 
